@@ -1,6 +1,6 @@
 # Published Papers
 
-(1) A Comprehensive Survey on Programming Languages for AI and ML: Evolution, Features, and Comparative Analysis
+<b>(1) A Comprehensive Survey on Programming Languages for AI and ML: Evolution, Features, and Comparative Analysis</b>
 
 Zenodo: https://doi.org/10.5281/zenodo.18021195
 
