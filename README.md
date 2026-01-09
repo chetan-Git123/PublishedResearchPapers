@@ -12,6 +12,6 @@ Medium: https://medium.com/@chetan.tech100/which-programming-language-is-best-fo
 
 Zenodo (Powered by CERN): https://doi.org/10.5281/zenodo.18189910
 
-TechRxiv (Powered by IEEE): https://www.techrxiv.org/doi/full/10.36227/techrxiv.176789887.71347340/v1
+TechRxiv (Powered by IEEE): https://doi.org/10.36227/techrxiv.176789887.71347340/v1
 
 Medium: https://medium.com/@chetan.tech100/why-python-still-rules-ai-in-2026-but-emerging-languages-are-closing-the-gap-benchmarks-8a3a810b4ebb
