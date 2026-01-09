@@ -10,6 +10,6 @@ Medium: https://medium.com/@chetan.tech100/which-programming-language-is-best-fo
 
 ## (2) Programming Languages for Artificial Intelligence and Machine Learning: An Updated Analysis with Original Benchmarks on Emerging Contenders, Systems Performance Evaluation, AI Tooling Sociology Perspective, and Quantified LLM Bias
 
-Zenodo (Powered by CERN): https://doi.org/10.5281/zenodo.18021195
+Zenodo (Powered by CERN): https://doi.org/10.5281/zenodo.18189910
 
 TechRxiv (Powered by IEEE): https://www.techrxiv.org/doi/full/10.36227/techrxiv.176789887.71347340/v1
