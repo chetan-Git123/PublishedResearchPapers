@@ -14,4 +14,6 @@ Zenodo (Powered by CERN): https://doi.org/10.5281/zenodo.18189910
 
 TechRxiv (Powered by IEEE): https://doi.org/10.36227/techrxiv.176789887.71347340/v1
 
+Academia: https://www.academia.edu/145874081/Programming_Languages_for_Artificial_Intelligence_and_Machine_Learning_An_Updated_Analysis_with_Original_Benchmarks_on_Emerging_Contenders_Systems_Performance_Evaluation_AI_Tooling_Sociology_Perspective_and_Quantified_LLM_Bias
+
 Medium: https://medium.com/@chetan.tech100/why-python-still-rules-ai-in-2026-but-emerging-languages-are-closing-the-gap-benchmarks-8a3a810b4ebb
