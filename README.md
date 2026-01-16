@@ -4,7 +4,7 @@
 
 Zenodo (Powered by CERN): https://doi.org/10.5281/zenodo.18021195
 
-SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5957014
+SSRN: https://ssrn.com/abstract=5957014
 
 Academia: https://www.academia.edu/145537675/A_Comprehensive_Survey_on_Programming_Languages_for_AI_and_ML_Evolution_Features_and_Comparative_Analysis
 
