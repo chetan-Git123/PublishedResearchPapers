@@ -4,7 +4,7 @@
 
 Zenodo (Powered by CERN): https://doi.org/10.5281/zenodo.18021195
 
-SSRN:  https://ssrn.com/abstract=5957014
+SSRN: https://ssrn.com/abstract=5957014
 
 Academia: https://www.academia.edu/145537675/A_Comprehensive_Survey_on_Programming_Languages_for_AI_and_ML_Evolution_Features_and_Comparative_Analysis
 
@@ -13,6 +13,8 @@ Medium: https://medium.com/@chetan.tech100/which-programming-language-is-best-fo
 ## (2) Programming Languages for Artificial Intelligence and Machine Learning: An Updated Analysis with Original Benchmarks on Emerging Contenders, Systems Performance Evaluation, AI Tooling Sociology Perspective, and Quantified LLM Bias. (January 2026)
 
 Zenodo (Powered by CERN): https://doi.org/10.5281/zenodo.18189910
+
+SSRN: https://ssrn.com/abstract=6085886
 
 TechRxiv (Powered by IEEE): https://doi.org/10.36227/techrxiv.176789887.71347340/v1
 
