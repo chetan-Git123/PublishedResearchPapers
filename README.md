@@ -14,6 +14,8 @@ Medium: https://medium.com/@chetan.tech100/which-programming-language-is-best-fo
 
 TechRxiv (Powered by IEEE): https://doi.org/10.36227/techrxiv.176789887.71347340/v1
 
+Research Square: https://doi.org/10.21203/rs.3.rs-9410893/v1
+
 Zenodo (Powered by CERN): https://doi.org/10.5281/zenodo.18189910
 
 SSRN: https://ssrn.com/abstract=6085886
